@@ -1,4 +1,4 @@
-package sa.com.stc.ocp.kafkaproject;
+package sa.com.lilj.test.kafkaproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

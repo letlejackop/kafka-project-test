@@ -1,4 +1,4 @@
-package sa.com.stc.ocp.kafkaproject;
+package sa.com.lilj.test.kafkaproject;
 
 import lombok.Getter;
 import lombok.Setter;

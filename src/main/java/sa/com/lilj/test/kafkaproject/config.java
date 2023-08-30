@@ -1,4 +1,4 @@
-package sa.com.stc.ocp.kafkaproject;
+package sa.com.lilj.test.kafkaproject;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

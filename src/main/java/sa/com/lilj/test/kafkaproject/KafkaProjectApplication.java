@@ -1,9 +1,7 @@
-package sa.com.stc.ocp.kafkaproject;
+package sa.com.lilj.test.kafkaproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.ApplicationContext;
-import org.springframework.kafka.core.KafkaTemplate;
 
 @SpringBootApplication
 public class KafkaProjectApplication {

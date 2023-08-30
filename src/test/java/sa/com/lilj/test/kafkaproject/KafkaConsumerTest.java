@@ -1,7 +1,6 @@
-package sa.com.stc.ocp.kafkaproject;
+package sa.com.lilj.test.kafkaproject;
 
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
